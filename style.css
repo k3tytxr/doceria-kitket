@@ -4,7 +4,7 @@
 }
 
 .cabecalho{
-    background-color: rgb(241, 50, 168);
+    background-color: rgb(129, 6, 53);
     color:rgb(255, 140, 211);
     display: flex;
     justify-content: space-between;
@@ -20,22 +20,22 @@
 }
 
 .sobreImagem{
-           width:
+           width:25%
 }
 
 .sobre{
-        background-image: linear gradient(#FFFFFF. #FFFFFF);
-        color: orange;
+        background-image: linear-gradient(#c40da5, #a0046c);
+        color: rgb(100, 5, 80);
         display: flex;
         justify-content: center;
        align-items: center;
-       padding: 370px 0;
+       padding: 200px;
 }
 
 .sobreConteudo{
-        width:
+        width:70%
 }
 
 .sobreTitulo{
-         padding: 100px 50px;
+         padding: 10px 50px;
 }
